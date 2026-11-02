@@ -20,7 +20,7 @@ I build practical software that connects reliable backend systems, clean user ex
 | [LinkedIn-to-X Job Pipeline](https://github.com/VeerendraNambula/JT) | Automation workflow for extracting job announcements and preparing reviewed social posts. | Python, Streamlit, Gemini |
 | [Applied ML & GenAI Projects](https://github.com/VeerendraNambula/Gen-AI-Pinnacle-Plus-) | A collection of practical machine-learning exercises and experiments. | Python, scikit-learn |
 | [Customer Churn Prediction](https://github.com/VeerendraNambula/customer-churn-ml-project) | End-to-end churn analysis and predictive modelling workflow. | Python, Pandas, scikit-learn |
-| [Jarvis Voice Assistant](https://github.com/VeerendraNambula/Jarvis-Voice-Assistant-main) | Python voice-assistant project integrating speech and API-based features. | Python, speech recognition, APIs |
+| [Jarvis Voice Assistant](https://github.com/VeerendraNambula/Jarvis-Voice-Assistant-main) | Python voice-assistant project integrating speech and API-based features. | Python, speech recognition, APIs |\n| [Wisecow Kubernetes Deployment](https://github.com/VeerendraNambula/wisecow) | Containerized HTTP service with health checks, Kubernetes manifests, TLS ingress, and GitHub Actions image publishing. | Python, Docker, Kubernetes, GitHub Actions |\n
 
 ## Experience
 
