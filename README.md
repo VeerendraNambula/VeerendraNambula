@@ -22,10 +22,21 @@ I build practical software that connects reliable backend systems, clean user ex
 | [Customer Churn Prediction](https://github.com/VeerendraNambula/customer-churn-ml-project) | End-to-end churn analysis and predictive modelling workflow. | Python, Pandas, scikit-learn |
 | [Jarvis Voice Assistant](https://github.com/VeerendraNambula/Jarvis-Voice-Assistant-main) | Python voice-assistant project integrating speech and API-based features. | Python, speech recognition, APIs |
 
+## Experience
+
+- **Full Stack Developer — Eljo Solutions** | February 2026–Present  
+  Developing and maintaining application features across frontend, backend, APIs, and data layers.
+- **Decision Science Intern — Mu Sigma** | May 2025–February 2026  
+  Worked on analytical problem-solving and data-driven workflows.
+
 ## Background
 
 - **B.Tech, Computer Science and Engineering (AI & ML)** — Vasireddy Venkatadri Institute of Technology (VVIT), 2025
 - **Professional interests:** Full-stack product engineering, decision science, applied machine learning, and useful AI automation.
+
+## Resume
+
+[View my resume](https://github.com/VeerendraNambula/veerendra_nambula_resume)
 
 ## What I'm exploring
 
