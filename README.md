@@ -1,47 +1,55 @@
 # Veerendra Nambula
 
-**Full-Stack Developer · Applied AI/ML · Data & Automation**
+**Full-Stack Developer | Applied AI/ML | Data & Automation**
 
-I build practical software that connects reliable backend systems, clean user experiences, and data-driven workflows. My work spans full-stack application development, Python automation, analytics, and applied machine learning.
+I build practical software across the stack—from responsive interfaces and backend APIs to data workflows and applied machine learning. I enjoy turning ambiguous problems into maintainable, testable solutions.
 
-## Focus areas
+- **Currently:** Full Stack Developer at Eljo Solutions
+- **Background:** B.Tech in Computer Science and Engineering (AI & ML)
+- **Interests:** Product engineering, applied machine learning, decision science, and useful AI automation
 
-- **Full-stack engineering:** React, Next.js, JavaScript, TypeScript, Node.js, NestJS, REST APIs
-- **Data & machine learning:** Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib
-- **Databases & cloud:** PostgreSQL, SQL Server, Prisma, AWS
-- **Analytics & automation:** Power BI, Tableau, Streamlit, Selenium, workflow automation
-- **Applied AI:** Generative AI and LLM-powered application workflows
+## What I work with
 
-## Selected projects
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React, Next.js, JavaScript, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, NestJS, Python, Flask, REST APIs |
+| **Data & ML** | Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib |
+| **Databases & cloud** | PostgreSQL, SQL Server, Prisma, AWS |
+| **Analytics & automation** | Power BI, Tableau, Streamlit, Selenium, GitHub Actions |
+| **AI** | Generative AI, LLM integrations, API-based workflows |
 
-| Project | Overview | Stack |
+## Featured work
+
+A selection of projects that demonstrate my work across application development, automation, and machine learning.
+
+| Project | What it does | Built with |
 | --- | --- | --- |
-| [Quality Check Management System](https://github.com/VeerendraNambula/qc_check) | Full-stack quality-inspection and task workflow application. | React, TypeScript, NestJS, Prisma, PostgreSQL |
-| [LinkedIn-to-X Job Pipeline](https://github.com/VeerendraNambula/JT) | Automation workflow for extracting job announcements and preparing reviewed social posts. | Python, Streamlit, Gemini |
-| [Applied ML & GenAI Projects](https://github.com/VeerendraNambula/Gen-AI-Pinnacle-Plus-) | A collection of practical machine-learning exercises and experiments. | Python, scikit-learn |
-| [Customer Churn Prediction](https://github.com/VeerendraNambula/customer-churn-ml-project) | End-to-end churn analysis and predictive modelling workflow. | Python, Pandas, scikit-learn |
-| [Jarvis Voice Assistant](https://github.com/VeerendraNambula/Jarvis-Voice-Assistant-main) | Python voice-assistant project integrating speech and API-based features. | Python, speech recognition, APIs |\n| [Wisecow Kubernetes Deployment](https://github.com/VeerendraNambula/wisecow) | Containerized HTTP service with health checks, Kubernetes manifests, TLS ingress, and GitHub Actions image publishing. | Python, Docker, Kubernetes, GitHub Actions |\n
+| [QC Check](https://github.com/VeerendraNambula/qc_check) | Full-stack quality inspection and task-management application. | React, TypeScript, NestJS, Prisma, PostgreSQL |
+| [JT — Job-to-X Pipeline](https://github.com/VeerendraNambula/JT) | Extracts job announcements and prepares reviewed social posts through an automation workflow. | Python, Streamlit, Gemini |
+| [Wisecow on Kubernetes](https://github.com/VeerendraNambula/wisecow) | Containerized HTTP service with health checks, Kubernetes deployment manifests, TLS ingress, and CI/CD. | Python, Docker, Kubernetes, GitHub Actions |
+| [Customer Churn Prediction](https://github.com/VeerendraNambula/customer-churn-ml-project) | End-to-end churn analysis and predictive modelling, including reusable inference preparation. | Python, Pandas, scikit-learn |
+| [Applied ML & GenAI](https://github.com/VeerendraNambula/Gen-AI-Pinnacle-Plus-) | Hands-on machine-learning implementations and experiments. | Python, scikit-learn |
+| [Jarvis Voice Assistant](https://github.com/VeerendraNambula/Jarvis-Voice-Assistant-main) | Voice assistant integrating speech features and external APIs. | Python, speech recognition, APIs |
 
 ## Experience
 
-- **Full Stack Developer — Eljo Solutions** | February 2026–Present  
-  Developing and maintaining application features across frontend, backend, APIs, and data layers.
-- **Decision Science Intern — Mu Sigma** | May 2025–February 2026  
+- **Full Stack Developer — Eljo Solutions** · February 2026–Present  
+  Building and maintaining application features across frontend, backend, APIs, and data layers.
+- **Decision Science Intern — Mu Sigma** · May 2025–February 2026  
   Worked on analytical problem-solving and data-driven workflows.
 
-## Background
+## Education
 
-- **B.Tech, Computer Science and Engineering (AI & ML)** — Vasireddy Venkatadri Institute of Technology (VVIT), 2025
-- **Professional interests:** Full-stack product engineering, decision science, applied machine learning, and useful AI automation.
+**B.Tech — Computer Science and Engineering (AI & ML)**  
+Vasireddy Venkatadri Institute of Technology (VVIT) · 2025
 
-## Resume
+## Beyond the code
 
-[View my resume](https://github.com/VeerendraNambula/veerendra_nambula_resume)
+I’m interested in building reliable products, strengthening software-engineering fundamentals, and applying data and AI to real-world problems.
 
-## What I'm exploring
-
-Building maintainable applications, improving engineering fundamentals, and turning data and AI capabilities into useful products.
+**[View my resume](https://github.com/VeerendraNambula/veerendra_nambula_resume)** · **[Explore all repositories](https://github.com/VeerendraNambula?tab=repositories)**
 
 ---
 
-Thanks for stopping by. Explore the repositories above to see selected work and implementation details.
+*Thanks for visiting. Feel free to explore the projects and their documentation.*
