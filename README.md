@@ -4,6 +4,7 @@
 
 I build practical software across frontend, backend, data, and automation. I enjoy taking a problem from requirements through implementation, testing, and deployment—with a focus on maintainable code and useful outcomes.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B8F78?logo=googlechrome&logoColor=white)](https://veerendranambula.github.io/veerendra_nambula_resume/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerendra-nambula)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-7B2D43?logo=adobeacrobatreader&logoColor=white)](https://github.com/VeerendraNambula/veerendra_nambula_resume/blob/main/veerendra_nambula_resume.pdf)
 [![Repositories](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?logo=github&logoColor=white)](https://github.com/VeerendraNambula?tab=repositories)
