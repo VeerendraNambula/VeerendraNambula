@@ -1,8 +1,8 @@
 # Hi, I'm Veerendra Nambula 👋
 
-**Full-Stack Developer · Applied AI/ML · Data & Automation**
+**Software Engineer | Full-Stack Development | React · TypeScript · Node.js · Python · SQL**
 
-I build practical software across frontend, backend, data, and automation. I enjoy taking a problem from requirements through implementation, testing, and deployment—with a focus on maintainable code and useful outcomes.
+I build practical software across frontend, backend, databases, and automation. I enjoy taking product requirements through implementation, testing, and deployment, with a focus on maintainable code, reliable APIs, and useful outcomes. My project work also includes data analysis and applied machine learning.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B8F78?logo=googlechrome&logoColor=white)](https://veerendranambula.github.io/veerendra_nambula_resume/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerendra-nambula)
@@ -69,7 +69,7 @@ Vasireddy Venkatadri Institute of Technology (VVIT) · 2025
 
 ### Let's connect
 
-I'm interested in software engineering, applied AI/ML, and building products that solve real problems.
+I'm interested in software engineering opportunities where I can contribute across application development, backend systems, APIs, databases, and automation.
 
 - [LinkedIn](https://www.linkedin.com/in/veerendra-nambula)
 - [Download my resume (PDF)](https://github.com/VeerendraNambula/veerendra_nambula_resume/blob/main/veerendra_nambula_resume.pdf)
