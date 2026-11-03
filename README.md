@@ -1,53 +1,56 @@
-# Veerendra Nambula
+# Hi, I'm Veerendra Nambula 👋
 
-**Full-Stack Developer | Applied AI/ML | Data & Automation**
+**Full-Stack Developer · Applied AI/ML · Data & Automation**
 
-I build practical software across the stack—from responsive interfaces and backend APIs to data workflows and applied machine learning. I enjoy turning ambiguous problems into maintainable, testable solutions.
+I build practical software across frontend, backend, data, and automation. I enjoy taking a problem from requirements through implementation, testing, and deployment—with a focus on maintainable code and useful outcomes.
 
-- **Currently:** Full Stack Developer at Eljo Solutions
-- **Education:** B.Tech in Computer Science and Engineering (AI & ML), VVIT
-- **Interests:** Product engineering, applied machine learning, decision science, and useful AI automation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerendra-nambula)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-7B2D43?logo=adobeacrobatreader&logoColor=white)](https://github.com/VeerendraNambula/veerendra_nambula_resume/blob/main/veerendra_nambula_resume.pdf)
+[![Repositories](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?logo=github&logoColor=white)](https://github.com/VeerendraNambula?tab=repositories)
 
-## Technical toolkit
+## About
 
-- **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
-- **Backend:** Node.js, NestJS, Python, Flask, REST APIs
-- **Data & ML:** Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib
-- **Databases & cloud:** PostgreSQL, SQL Server, Prisma, AWS
-- **Analytics & automation:** Power BI, Tableau, Streamlit, Selenium, GitHub Actions
-- **AI:** Generative AI, LLM integrations, API-based workflows
+- 💻 **Current role:** Full Stack Developer at Eljo Solutions
+- 🎓 **Education:** B.Tech, Computer Science and Engineering (AI & ML), VVIT
+- 🧩 **Focus areas:** Full-stack product development, backend APIs, applied machine learning, and workflow automation
+- 🌱 **Currently building:** Reliable applications and practical AI/data projects
+
+## Tech stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Data, AI & delivery**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## Featured projects
 
-### [QC Check](https://github.com/VeerendraNambula/qc_check)
-Full-stack quality-inspection and task-management application, covering inspection workflows, checklists, task assignment, and evidence uploads.
-
-*React · TypeScript · NestJS · Prisma · PostgreSQL*
-
-### [JT — LinkedIn-to-X Job Pipeline](https://github.com/VeerendraNambula/JT)
-Python automation pipeline that identifies job announcements, extracts structured details, and prepares reviewed posts for X. Includes CLI and Streamlit workflows.
-
-*Python · Streamlit · Gemini · Playwright*
-
-### [Wisecow on Kubernetes](https://github.com/VeerendraNambula/wisecow)
-Containerized HTTP service with health checks, hardened Docker configuration, Kubernetes deployment manifests, TLS ingress, and GitHub Actions CI/CD.
-
-*Python · Docker · Kubernetes · GitHub Actions*
-
-### [Customer Churn Prediction](https://github.com/VeerendraNambula/customer-churn-ml-project)
-End-to-end telecom churn analysis and classification workflow, with reusable preprocessing and prediction for new customer data.
-
-*Python · Pandas · scikit-learn*
-
-### [Applied ML & GenAI](https://github.com/VeerendraNambula/Gen-AI-Pinnacle-Plus-)
-Hands-on machine-learning implementations, starting with simple and multiple linear regression, evaluation metrics, and diagnostic visualizations.
-
-*Python · NumPy · Pandas · scikit-learn · Matplotlib*
-
-### [Jarvis Voice Assistant](https://github.com/VeerendraNambula/Jarvis-Voice-Assistant-main)
-Python voice-assistant project integrating speech features and external APIs.
-
-*Python · Speech Recognition · APIs*
+| Project | Overview | Stack |
+|---|---|---|
+| [QC Check](https://github.com/VeerendraNambula/qc_check) | Full-stack quality inspection and task-management workflows. | React, TypeScript, NestJS, Prisma |
+| [JT](https://github.com/VeerendraNambula/JT) | Job-announcement extraction and reviewed social-post automation. | Python, Streamlit, Gemini |
+| [Wisecow](https://github.com/VeerendraNambula/wisecow) | Containerized HTTP service with Kubernetes manifests and CI/CD. | Python, Docker, Kubernetes |
+| [Customer Churn Prediction](https://github.com/VeerendraNambula/customer-churn-ml-project) | Telecom churn analysis, model evaluation, and reusable inference. | Python, Pandas, scikit-learn |
+| [Applied ML & GenAI](https://github.com/VeerendraNambula/Gen-AI-Pinnacle-Plus-) | Practical ML implementations and model-evaluation experiments. | Python, NumPy, Pandas |
+| [Jarvis Voice Assistant](https://github.com/VeerendraNambula/Jarvis-Voice-Assistant-main) | Voice-assistant project integrating speech features and external APIs. | Python, Speech Recognition |
 
 ## Experience
 
@@ -61,12 +64,12 @@ Python voice-assistant project integrating speech features and external APIs.
 **B.Tech — Computer Science and Engineering (AI & ML)**  
 Vasireddy Venkatadri Institute of Technology (VVIT) · 2025
 
-## Let's connect
-
-I’m interested in building reliable products and applying data and AI to real-world problems.
-
-**[Resume](https://github.com/VeerendraNambula/veerendra_nambula_resume)** · **[LinkedIn](https://www.linkedin.com/in/veerendra-nambula)** · **[All repositories](https://github.com/VeerendraNambula?tab=repositories)**
-
 ---
 
-*Thanks for visiting. Explore the projects to see the implementation details.*
+### Let's connect
+
+I'm interested in software engineering, applied AI/ML, and building products that solve real problems.
+
+- [LinkedIn](https://www.linkedin.com/in/veerendra-nambula)
+- [Download my resume (PDF)](https://github.com/VeerendraNambula/veerendra_nambula_resume/blob/main/veerendra_nambula_resume.pdf)
+- [Explore all repositories](https://github.com/VeerendraNambula?tab=repositories)
